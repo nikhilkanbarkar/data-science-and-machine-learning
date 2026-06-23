@@ -1,6 +1,6 @@
-# Data Science and Machine Learning
+# Data Science & Machine Learning
 
-This repository contains my learning journey in **Data Science** and **Machine Learning** using Python and Jupyter Notebooks.
+This repository documents my journey in Python, Data Analysis, Data Visualization, and Machine Learning. It contains learning notebooks, exercises, datasets, visualizations, and real-world projects built while exploring Data Science concepts.
 
 ## Repository Structure
 
@@ -11,7 +11,13 @@ CONDA PROJECT
 │   ├── Variables-Datatypes.ipynb
 │   ├── InputOutput-and-Operators.ipynb
 │   ├── Loops.ipynb
-│   └── String.ipynb
+│   ├── Strings.ipynb
+│   ├── Functions.ipynb
+│   ├── Lists.ipynb
+│   ├── Tuples.ipynb
+│   ├── Sets.ipynb
+│   ├── Dictionaries.ipynb
+│   └── FileHandling.ipynb
 │
 ├── 02-pandas
 │   ├── IntroductionToPandas.ipynb
@@ -21,6 +27,22 @@ CONDA PROJECT
 │   ├── IntroToNumpy.ipynb
 │   └── numpy-exercises.ipynb
 │
+├── 04-matplotlib
+│   ├── Matplotlib_Basics.ipynb
+│   ├── Line_Plots.ipynb
+│   ├── Bar_Charts.ipynb
+│   └── Pie_Charts.ipynb
+│
+├── Projects
+│   │
+│   └── StudentMarksAnalyzer
+│       ├── main.py
+│       ├── Student_Performance_Report.docx
+│       ├── Top_10_Toppers.xlsx
+│       ├── Subject_Analysis.xlsx
+│       ├── Complete_Student_Data.xlsx
+│       └── README.md
+│
 ├── datasets
 │
 ├── images
@@ -28,44 +50,80 @@ CONDA PROJECT
 └── README.md
 ```
 
-## Topics Covered
-
-### Python Basics
-
-* Variables and Data Types
-* Input and Output
-* Operators
-* Loops
-* Strings
-
-### Pandas
-
-* Introduction to Pandas
-* Series and DataFrames
-* Data Analysis Exercises
-
-### NumPy
-
-* NumPy Arrays
-* Array Operations
-* NumPy Practice Exercises
-
-## Datasets Used
-
-* Car Sales Dataset
-* Heart Disease Dataset
-* Nut Butter Sales Dataset
-
-## Tools Used
+## Technologies Used
 
 * Python
-* Jupyter Notebook
 * NumPy
 * Pandas
+* Matplotlib
+* Jupyter Notebook
 * VS Code
-* Git
-* GitHub
+* Git & GitHub
 
-## Learning Goal
+## Featured Project
 
-To build a strong foundation in Data Science and Machine Learning through hands-on practice, data analysis, and implementation of concepts using real-world datasets.
+### Student Marks Analyzer
+
+A complete student performance analysis system built using Python, NumPy, and Pandas.
+
+#### Features
+
+* Generate dataset for 500 students
+* Automatic roll number generation
+* Student result processing
+* Pass/Fail analysis
+* Failed subject tracking
+* Grade calculation
+* Percentage calculation
+* Top 10 topper identification
+* Subject-wise performance analysis
+* Pass percentage and fail percentage analysis
+* Result quality evaluation
+* Word report generation
+* Excel report generation
+
+#### Generated Reports
+
+* Student_Performance_Report.docx
+* Top_10_Toppers.xlsx
+* Subject_Analysis.xlsx
+* Complete_Student_Data.xlsx
+
+#### Skills Demonstrated
+
+* Python Programming
+* NumPy
+* Pandas
+* Data Analysis
+* Report Generation
+* File Handling
+* Automation
+
+## Learning Roadmap
+
+### Completed
+
+* Python Basics
+* Pandas Fundamentals
+* NumPy Fundamentals
+* Matplotlib Basics
+* Student Marks Analyzer Project
+
+### Upcoming
+
+* Data Cleaning
+* Data Visualization
+* Statistics for Data Science
+* Machine Learning
+* Deep Learning
+* AI Projects
+
+## Author
+
+**Nikhil Kanbarkar**
+
+Bachelor of Engineering (Electronics and Communication Engineering)
+
+Jain College of Engineering and Research, Belagavi
+
+Aspiring AI/ML Engineer
