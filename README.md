@@ -28,10 +28,10 @@ CONDA PROJECT
 │   └── numpy-exercises.ipynb
 │
 ├── 04-matplotlib
-│   ├── Matplotlib_Basics.ipynb
+│   ├── IntoToMatplotlib.ipynb
 │   ├── Line_Plots.ipynb
-│   ├── Bar_Charts.ipynb
-│   └── Pie_Charts.ipynb
+│   ├── heart-disease-analysis-plot.png
+│   ├── sample-plot.png
 │
 ├── Projects
 │   │
