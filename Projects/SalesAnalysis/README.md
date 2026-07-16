@@ -78,6 +78,10 @@ The dataset contains order-level retail transactions with the following key fiel
    jupyter notebook Notebook.ipynb
    ```
 
+## 📋 Final Summary Report
+
+The notebook ends with a consolidated console report that prints the key findings from every analysis module — overall performance, top products, categories, customers, regions, time trends, discounts, and profit — as a single readable summary.
+
 ## 💡 Key Insights
 
 - Identifies the best-selling and most profitable products, categories, and customers
