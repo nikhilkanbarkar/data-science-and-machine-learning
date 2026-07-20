@@ -156,7 +156,7 @@ def save_report_docx():
     )
 
     document.add_paragraph(
-        f"Name: {topper['Names']}"
+        f"Name: {topper['Names']}."
     )
 
     document.add_paragraph(
