@@ -134,4 +134,4 @@ This project is open source and available for personal and educational use.
 
 ---
 
-⭐ If you found this useful, consider giving it a star on GitHub!
+⭐ If you found this useful, consider giving it a star on GitHub!.
