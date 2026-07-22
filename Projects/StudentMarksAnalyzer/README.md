@@ -265,3 +265,11 @@ Bachelor of Engineering (Electronics and Communication Engineering)
 Aspiring AI/ML Engineer
 
 GitHub: nikhilkanbarkar
+
+## 📄 License
+
+This project is open source and available for personal and educational use.
+
+---
+
+⭐ If you found this project useful, consider giving it a star on GitHub!
