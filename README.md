@@ -127,3 +127,11 @@ Bachelor of Engineering (Electronics and Communication Engineering)
 Jain College of Engineering and Research, Belagavi
 
 Aspiring AI/ML Engineer
+
+## 📄 License
+
+This project is open source and available for personal and educational use.
+
+---
+
+⭐ If you found this useful, consider giving it a star on GitHub!
