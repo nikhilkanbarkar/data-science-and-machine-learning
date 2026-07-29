@@ -311,7 +311,7 @@ def print_final_report():
 
     print("\n")
     print("=" * 70)
-    print("REPORT GENERATED SUCCESSFULLY")
+    print("REPORT GENERATED SUCCESSFULLY.")
     print("=" * 70)
 
 
